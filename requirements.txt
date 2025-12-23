@@ -1,0 +1,9 @@
+# Core
+python-dotenv
+
+# NLP (later)
+sentence-transformers
+scikit-learn
+
+# Optional (future)
+spacy
